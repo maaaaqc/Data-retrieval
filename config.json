@@ -1,0 +1,12 @@
+{
+    "nlpsinfo": "SERVERS INFO:",
+    "nssmtps": "ASR DATAPACKS:",
+    "nlgs_llms": "LLSM:",
+    "pss": "PSS:",
+    "mpdss": "MPDSS:",
+    "cm": "CM:",
+    "ccss_AUTO_SHARED_QA2": "CCSS: AUTO_SHARED_QA2",
+    "ccss_AUTO_SHARED_QA3": "CCSS: AUTO_SHARED_QA3",
+    "ccss_AUTO_SHARED_QA5": "CCSS: AUTO_SHARED_QA5",
+    "profile": "PROFILES:"
+}
