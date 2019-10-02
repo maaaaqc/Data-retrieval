@@ -1,6 +1,0 @@
-      2 artifactory-dmz.dev.nuancemobility.net:443/mpdss-docker/mpdss:2.6.1.344410
-      2 artifactory-dmz.dev.nuancemobility.net:443/mpdss-docker/mpdss-solr:2.6.1.344410
-      2 artifactory-dmz.dev.nuancemobility.net:443/sspni-docker/packdownload:3.0.0.150559
-      1 mpdsssolr:ctripHotel.1.0.1
-      1 mpdsssolr:medianamecorrection.1.0.1
-      1 mpdsssolr:poicorrection.1.0.14
